@@ -1,6 +1,8 @@
 {
+    "/global/css/style.css": "/global/css/style.css?id=8d924a507e2bd57775a0",
     "/site/css/style.css": "/site/css/style.css?id=b0f9740cff554bffb734",
     "/site/js/index.js": "/site/js/index.js?id=f19ed981d5c6c1eef5e0",
     "/admin/css/style.css": "/admin/css/style.css?id=e4cbe7f6a6a0e7ef9a41",
-    "/admin/js/index.js": "/admin/js/index.js?id=707dd58704456838463c"
+    "/admin/js/index.js": "/admin/js/index.js?id=707dd58704456838463c",
+    "/global/js/index.js": "/global/js/index.js?id=27fb40597729a6bf2e78"
 }

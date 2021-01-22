@@ -25,3 +25,12 @@ mix
     .scripts(['resources/views/admin/js/index.js',],
             'public/admin/js/index.js')
     .version();
+
+//GLOBAL
+mix 
+    .sass('resources/views/scss/style.scss',
+            'public/global/css/style.css')
+    .scripts(['node_modules/jquery/dist/jquery.js',
+            'node_modules/bootstrap/dist/js/bootstrap.bundle.js'],
+            'public/global/js/index.js');
+    
