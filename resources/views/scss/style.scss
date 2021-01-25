@@ -1,3 +1,10 @@
+/* Aqui está sendo utilizado o conceito de theming do bootstrap.
+O arquivo principal de estilização do projeto importa o sass do bootstrap,
+assim possibilitando editar as variaveis dele, conforme no exemplo abaixo onde
+houve a alteração de cores padrão.
+https://getbootstrap.com/docs/4.0/getting-started/theming/
+
+ */
 $theme-colors: (
   "primary": #645f2f,
   "danger": #ff4136
